@@ -1,0 +1,88 @@
+{
+  "plugins": [
+    {
+      "language": "C",
+      "extension": ".c, .h",
+      "file": "c.tmLanguage.json",
+      "scope": "source.c"
+    },
+    {
+      "language": "C++",
+      "extension": ".cpp, .cc, .hpp",
+      "file": "cpp.tmLanguage.json",
+      "scope": "source.cpp"
+    },
+    {
+      "language": "C#",
+      "extension": ".cs",
+      "file": "csharp.tmLanguage.json",
+      "scope": "source.cs"
+    },
+    {
+      "language": "Go",
+      "extension": ".go",
+      "file": "go.tmLanguage.json",
+      "scope": "source.go"
+    },
+    {
+      "language": "Rust",
+      "extension": ".rs",
+      "file": "rust.tmLanguage.json",
+      "scope": "source.rust"
+    },
+    {
+      "language": "SQL",
+      "extension": ".sql",
+      "file": "sql.tmLanguage.json",
+      "scope": "source.sql"
+    },
+    {
+      "language": "Bash",
+      "extension": ".sh, .bash",
+      "file": "shell.tmLanguage.json",
+      "scope": "source.shell"
+    },
+    {
+      "language": "Swift",
+      "extension": ".swift",
+      "file": "swift.tmLanguage.json",
+      "scope": "source.swift"
+    },
+    {
+      "language": "PHP",
+      "extension": ".php",
+      "file": "php.tmLanguage.json",
+      "scope": "source.php"
+    },
+    {
+      "language": "Ruby",
+      "extension": ".rb",
+      "file": "ruby.tmLanguage.json",
+      "scope": "source.ruby"
+    },
+    {
+      "language": "R",
+      "extension": ".r, .R",
+      "file": "r.tmLanguage.json",
+      "scope": "source.r"
+    },
+    {
+      "language": "YAML",
+      "extension": ".yaml, .yml",
+      "file": "yaml.tmLanguage.json",
+      "scope": "source.yaml"
+    },
+    {
+      "language": "Dart",
+      "extension": ".dart",
+      "file": "dart.tmLanguage.json",
+      "scope": "source.dart"
+    },
+    {
+      "language": "Zig",
+      "extension": ".zig",
+      "file": "zig.tmLanguage.json",
+      "scope": "source.zig"
+    }
+  ]
+}
