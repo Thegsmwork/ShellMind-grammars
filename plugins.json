@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    {
+      "language": "C",
+      "extension": ".c, .h",
+      "file": "c.tmLanguage.json",
+      "scope": "source.c"
+    },
+    {
+      "language": "C++",
+      "extension": ".cpp, .cc, .hpp",
+      "file": "cpp.tmLanguage.json",
+      "scope": "source.cpp"
+    }
+  ]
+}
